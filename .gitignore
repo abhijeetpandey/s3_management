@@ -1,4 +1,4 @@
 fuel/app/logs/*/*/*
 fuel/app/cache/*/*
-.key
-.creds
+*.key
+*.creds
